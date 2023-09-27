@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingApp.Web", "BankingApp.Web\BankingApp.Web.csproj", "{605D655B-1A90-49D2-835F-0AB7F39E7589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingApp.Core", "BankingApp.Core\BankingApp.Core.csproj", "{B017CEFD-69DC-476F-9D62-AE5DD7BB519F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingApp.Application", "BankingApp.Application\BankingApp.Application.csproj", "{F68AB9C5-C3B2-43CC-BA67-D492D81591AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingApp.Infrastructure", "BankingApp.Infrastructure\BankingApp.Infrastructure.csproj", "{06CF5900-2C4A-49DC-B0DE-9348529EB756}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{605D655B-1A90-49D2-835F-0AB7F39E7589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605D655B-1A90-49D2-835F-0AB7F39E7589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605D655B-1A90-49D2-835F-0AB7F39E7589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605D655B-1A90-49D2-835F-0AB7F39E7589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B017CEFD-69DC-476F-9D62-AE5DD7BB519F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B017CEFD-69DC-476F-9D62-AE5DD7BB519F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B017CEFD-69DC-476F-9D62-AE5DD7BB519F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B017CEFD-69DC-476F-9D62-AE5DD7BB519F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F68AB9C5-C3B2-43CC-BA67-D492D81591AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68AB9C5-C3B2-43CC-BA67-D492D81591AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68AB9C5-C3B2-43CC-BA67-D492D81591AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68AB9C5-C3B2-43CC-BA67-D492D81591AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06CF5900-2C4A-49DC-B0DE-9348529EB756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CF5900-2C4A-49DC-B0DE-9348529EB756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CF5900-2C4A-49DC-B0DE-9348529EB756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CF5900-2C4A-49DC-B0DE-9348529EB756}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
